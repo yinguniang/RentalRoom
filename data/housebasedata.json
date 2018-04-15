@@ -1,0 +1,2175 @@
+[
+  {
+    "owner": "张娟",
+    "area": "朝阳",
+    "areadetail": "国贸",
+    "subway": [
+      "1号线",
+      "10号线"
+    ],
+    "station": "国贸",
+    "roomAmount": 1,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "26",
+        "price": 3500,
+        "images": [
+          "078c0ebf-92ae-4e1b-ad0a-75bab728f2b7.jpg",
+          "2a6fef26-cb92-4b69-b855-d409a1a98efd.jpg",
+          "d48a1952-7f1b-4ab3-8a01-d95f29f2198e.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "2a3835cd-0e0e-44d2-9bbc-e15a43e20634.jpg",
+      "a27e890f-bfc8-4db7-834f-2d95b34d8a6e.jpg",
+      "b71c7c70-fec3-4c95-a6a4-cefc341cafe8.jpg",
+      "bb31ba33-7a5b-446d-aafb-c52b776d4599.jpg",
+      "e2cb194e-43ae-4817-b882-33f337626350.jpg",
+      "f0d98b3e-154f-479b-8a91-62cecfe6a40e.jpg",
+      "f6dbc152-acf9-4f82-bddc-6e1e4e30ef6e.jpg",
+      "f9e57b38-986f-4839-b81e-c0d046430b53.jpg",
+      "fe2c39b4-8940-4155-bcb5-5418a6120fd8.jpg"
+    ],
+    "price": 3500
+  },
+  {
+    "owner": "姜涛",
+    "area": "朝阳",
+    "areadetail": "国贸",
+    "subway": [
+      "1号线",
+      "10号线"
+    ],
+    "station": "国贸",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "17",
+        "price": 1600,
+        "images": [
+          "195727a2-823d-42b9-8b0e-e415ead989f4.jpg",
+          "7d6eeb52-aa48-48d2-aa79-4b8e91b5c734.jpg",
+          "ecd8807f-a986-4e5c-bd66-acba886884d0.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "22",
+        "price": 4000,
+        "images": [
+          "00aedb87-9a8d-4d40-987c-8441a1dea2c0.jpg",
+          "25ca666c-043f-4465-8dfd-b924ad22568a.jpg",
+          "7ce8ddef-e0df-434b-a20f-fe51cc4d219c.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "24",
+        "price": 4600,
+        "images": [
+          "10875c91-1fc1-4082-98de-1c9bb0b94ae9.jpg",
+          "7a749f70-d52b-44f7-8523-64d689fe2759.jpg",
+          "9ad4e531-c197-4576-b46b-91abed97fd64.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "05642070-7c7e-4cbb-b9b9-2d35beb66716.jpg",
+      "1b9d2ba8-2841-42f9-9588-a0599c69e58d.jpg",
+      "368adab0-20a9-4ce8-8c99-4e973652e61e.jpg",
+      "67439ff0-8616-4fa1-ab30-2794e5c16339.jpg",
+      "81447c29-1907-43d8-8bf5-544de4259665.jpg",
+      "aca6459d-d400-4181-8bb6-05d4d3de2e4f.jpg",
+      "bad86229-922f-43a2-a49e-726788def4d2.jpg",
+      "dafa47d5-c9fd-405b-a17a-2b491f331b9d.jpg",
+      "df3b8e11-9ad8-4abe-89bb-bb6eeec95eff.jpg"
+    ],
+    "price": 10200
+  },
+  {
+    "owner": "邱丽",
+    "area": "朝阳",
+    "areadetail": "国贸",
+    "subway": [
+      "1号线",
+      "10号线"
+    ],
+    "station": "国贸",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "29",
+        "price": 4900,
+        "images": [
+          "6682a52c-bc75-4336-881e-78e1bc1c6814.jpg",
+          "8d79cc76-4dac-430d-9c4e-9aa4f03c7748.jpg",
+          "ec4bf7b8-15d5-4f7c-aa41-5091f678a911.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "22",
+        "price": 1500,
+        "images": [
+          "ac5ef35a-b5b4-4122-ada1-c450b7699eb4.jpg",
+          "caa069cf-6b02-46c3-a627-6b876ea9b812.jpg",
+          "fa4f1729-07dd-4a57-9139-306f5ce58618.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0670e75d-f579-4450-b9a5-653890d86394.jpg",
+      "33d6fc34-60f5-4596-91db-4af2c0327373.jpg",
+      "4d02312a-b3d2-45d1-ab71-0995d6a44091.jpg",
+      "69f44a85-184f-49c8-8ea9-96e36c3272f6.jpg",
+      "75998dc8-7d27-4ab2-a918-20d8a25a19d5.jpg",
+      "8c0fc7f9-d4af-4af3-8fb3-697aa83ab953.jpg",
+      "8dcbe03d-d056-403b-8e63-1782a3823f1b.jpg",
+      "92fb9119-57bf-45fb-b243-3fe2b3faf6df.jpg",
+      "d6632c87-24e6-4f11-8f70-14f399a82e64.jpg"
+    ],
+    "price": 6400
+  },
+  {
+    "owner": "史平",
+    "area": "朝阳",
+    "areadetail": "国贸",
+    "subway": [
+      "1号线",
+      "10号线"
+    ],
+    "station": "国贸",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "22",
+        "price": 5400,
+        "images": [
+          "5a1fb27c-8c97-4dc2-b96c-24bcc6f58505.jpg",
+          "a0f3f0c1-5691-4f13-a062-68989404ab43.jpg",
+          "f46f8b29-6f87-444a-b95d-981a4fe3eea4.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "19",
+        "price": 3500,
+        "images": [
+          "63aa0aa1-c809-47db-9337-dacda299f83d.jpg",
+          "d036634a-7b06-4850-87e1-fc4d4c63ae24.jpg",
+          "db108590-098a-4e67-a269-507eccf8a349.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "41d6a8ed-4b0c-4f82-98aa-fafe54b1e648.jpg",
+      "4bb236d0-fc90-4464-9370-b306f072059c.jpg",
+      "505ed516-e042-4cc4-9f00-133640541290.jpg",
+      "61e587c9-95ce-4ce0-b824-152bc9e577f2.jpg",
+      "68fce977-2e93-465e-bb8c-d707c405e801.jpg",
+      "77ced927-b220-4d50-beb1-0a5de904502e.jpg",
+      "78c8244d-8a0e-4495-a930-1d1411a30273.jpg",
+      "c3b00cde-06f0-4e12-adaa-14881a26ebbf.jpg",
+      "e271b17e-35b0-4150-865b-6e1c45f0efe7.jpg"
+    ],
+    "price": 8900
+  },
+  {
+    "owner": "姚军",
+    "area": "朝阳",
+    "areadetail": "国贸",
+    "subway": [
+      "1号线",
+      "10号线"
+    ],
+    "station": "国贸",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "14",
+        "price": 1600,
+        "images": [
+          "08d3a61a-801f-4add-9edf-aa564ee7468e.jpg",
+          "1b3fefb9-c07e-4c9f-8067-7a2f383cc015.jpg",
+          "a42fbf2b-7118-4969-b2cb-b2cf21e2cd0b.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "17",
+        "price": 3000,
+        "images": [
+          "629b6a19-c888-4bcf-aab6-0abdda5f7c18.jpg",
+          "b530a451-97a1-4429-b79b-1e14b52a26e6.jpg",
+          "f3f8b20b-0438-43c8-8cd4-5105b4a2dece.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0f9bcd78-80c4-4b0d-9a40-7f2c160e80a0.jpg",
+      "1a3c0f77-c073-4d15-9bdb-e8d31f8435e1.jpg",
+      "27925042-a731-4859-9cfe-5136efe6cb8b.jpg",
+      "8a1398d4-5975-4fa2-8cce-348441cbc12b.jpg",
+      "9c103dec-6988-4279-a8e2-4490e7c40197.jpg",
+      "a396cee1-96ba-434a-b930-7f93f5eb2260.jpg",
+      "ac036869-34f8-4c71-b299-f90268ce6c71.jpg",
+      "c9f53143-877e-46e9-9cff-d10f7b9fdae3.jpg",
+      "e07a52a7-1bb6-4721-8c79-8ba89223c50a.jpg"
+    ],
+    "price": 4600
+  },
+  {
+    "owner": "任军",
+    "area": "朝阳",
+    "areadetail": "国贸",
+    "subway": [
+      "1号线",
+      "10号线"
+    ],
+    "station": "国贸",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "22",
+        "price": 1500,
+        "images": [
+          "0746a3d0-9efa-48ab-a748-7f419d1b9966.jpg",
+          "a6961ecf-0820-4f2c-8b4c-7fa76ddc8f28.jpg",
+          "d0802dca-2b75-49f0-8309-beab8b5664fd.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "17",
+        "price": 2400,
+        "images": [
+          "24f72b52-c5b3-4e80-ba85-0abcd1332a84.jpg",
+          "27e20580-3e97-4ee8-881f-bdef36936c62.jpg",
+          "9313bedf-ecce-42f8-a87c-fc6dac60d818.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0b52a7ba-5d1e-4da9-ad10-0ecff29142ca.jpg",
+      "1d323ad9-de40-4dcc-b146-6ec0fafbe203.jpg",
+      "727211b6-0afe-4f62-8934-9fc5c6f59665.jpg",
+      "72817a13-86c7-4598-a7f9-a755901d0cfb.jpg",
+      "78031b03-b425-4a62-a58b-93f540b0f477.jpg",
+      "87c8fbfb-e7d0-47c8-b5a7-2b6566f6d980.jpg",
+      "8f301df3-9002-449e-81f9-0809f9f004af.jpg",
+      "9d884edc-de3b-4ccc-be74-ae2dd2757713.jpg",
+      "bc74dec4-3809-4833-81b8-fd53f47409e6.jpg"
+    ],
+    "price": 3900
+  },
+  {
+    "owner": "郑磊",
+    "area": "朝阳",
+    "areadetail": "大望路",
+    "subway": [
+      "1号线",
+      "14号线"
+    ],
+    "station": "大望路",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "16",
+        "price": 3200,
+        "images": [
+          "4c2376a0-3ce7-48a7-b460-f382785c2fd3.jpg",
+          "5b1dcda2-4106-4612-8903-5472c835b59f.jpg",
+          "aa54b714-c425-4bed-8cc5-2b325a929a34.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "29",
+        "price": 1300,
+        "images": [
+          "064fe5f8-0017-4fcb-8097-4221b5a18c11.jpg",
+          "32e2a2e6-4f72-4957-9060-042439062644.jpg",
+          "c997cf29-6f60-4918-8502-ba25f481e2a4.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "19",
+        "price": 3500,
+        "images": [
+          "3fbf5057-9cbf-408a-a7e7-5aa75c9e9d4e.jpg",
+          "4b845bdf-e92e-46b4-913a-082cd72c2510.jpg",
+          "8ac8faf6-96e2-4811-a3e3-a6e13d52c8af.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "06adf756-2f20-41cd-882d-d9d0333867de.jpg",
+      "48bcb6d3-365a-4bd7-90fc-2d8b290363af.jpg",
+      "5708b226-3534-4921-8ff8-d20dcff94c91.jpg",
+      "668611ee-861f-4b0f-8414-2b1df086dc7f.jpg",
+      "6e71d5f7-d8f6-4bea-b2ae-eb2f7d0e5019.jpg",
+      "83dbad8b-39d1-4606-8a4e-2882e640b88d.jpg",
+      "d2847d73-bdf9-4a0f-878e-6ac66b54d91c.jpg",
+      "f4468ba6-022c-4537-b178-66764fbbed9a.jpg",
+      "f6f4b41b-2127-408b-9880-1b94d15ad12f.jpg"
+    ],
+    "price": 8000
+  },
+  {
+    "owner": "卢勇",
+    "area": "朝阳",
+    "areadetail": "大望路",
+    "subway": [
+      "1号线",
+      "14号线"
+    ],
+    "station": "大望路",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "19",
+        "price": 5500,
+        "images": [
+          "c9abdabc-a9a5-46e1-9090-16010ac12df2.jpg",
+          "d1bc1879-a464-485d-b2e7-c26cc8f04399.jpg",
+          "f6614e27-0fd9-4a4e-bc40-e3ff396bfe3a.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "11",
+        "price": 4900,
+        "images": [
+          "1c189f38-0cfa-40b5-92ed-76a506863aef.jpg",
+          "30b422be-9ea3-4a03-aa0c-8e2d377ea747.jpg",
+          "8415a591-9ecf-425c-af1a-6baadabeb04d.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "07860273-389e-4398-aae9-0766d4c32a97.jpg",
+      "2ce8843a-36de-4c64-83c2-fbed6b8fe27c.jpg",
+      "43181cbc-7c10-429b-88eb-3b76c7e15e94.jpg",
+      "591d4758-f717-45fa-af2e-9e8204826b9f.jpg",
+      "5d375939-2997-4c3d-bab2-f622d8e1735c.jpg",
+      "820f087d-a0c3-4068-8fcc-29ceeddfb839.jpg",
+      "8c959c95-ee70-48fd-bf1e-4a4eabd5b354.jpg",
+      "d5e9e4e0-5577-4e25-87dc-55c5bac95359.jpg",
+      "fd68b4d3-a821-4fec-9b1e-b9fcb42a7599.jpg"
+    ],
+    "price": 10400
+  },
+  {
+    "owner": "史平",
+    "area": "朝阳",
+    "areadetail": "大望路",
+    "subway": [
+      "1号线",
+      "14号线"
+    ],
+    "station": "大望路",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "12",
+        "price": 5000,
+        "images": [
+          "87af6128-88b4-446e-812f-d4782249f4d9.jpg",
+          "c3d911bf-f70d-474f-8c10-43b52edccbae.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "21",
+        "price": 4800,
+        "images": [
+          "8397d094-f5c4-4070-873d-f1a0103c64bd.jpg",
+          "9ff1c212-fddd-4e3e-a9a7-f1839d20dd2a.jpg",
+          "b9af5010-5eac-4800-aec9-b5a013b6dbcf.jpg",
+          "d8d0c363-90cd-4858-abf7-1d754ea012fd.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "318f6bec-157a-42c3-a56b-56ca278eb3ac.jpg",
+      "4a77eee1-53a9-40e5-a5df-d4299f4e297c.jpg",
+      "8bef1b96-f5d8-47e1-b835-37f3df516d24.jpg",
+      "b24534a5-1674-4f9a-860f-048dd3a3bf27.jpg",
+      "c88d7f5c-3ec2-4374-9e9b-19bdfe59337e.jpg",
+      "e7edeb26-572e-420f-856a-d173dd93dd8a.jpg",
+      "ef26b048-8b3c-41ad-9877-abd001da52a5.jpg"
+    ],
+    "price": 9800
+  },
+  {
+    "owner": "姜涛",
+    "area": "朝阳",
+    "areadetail": "大望路",
+    "subway": [
+      "1号线",
+      "14号线"
+    ],
+    "station": "大望路",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "15",
+        "price": 5500,
+        "images": [
+          "8447fd8c-c280-4096-bd00-31eab9a5e601.jpg",
+          "8bce92f0-06cf-4693-bc8f-2682a6c57d75.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "20",
+        "price": 4300,
+        "images": [
+          "4d990f4a-e8db-4e60-b576-c7aab3c0e2e0.jpg",
+          "67fcd8a0-67e6-457b-b7e8-93d3517db32a.jpg",
+          "be00495a-5c49-4e39-b235-f5d413b5fbc2.jpg",
+          "d9426188-72b8-4420-b123-4b27ae89780f.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "05e4f9a7-e7fd-4c90-86b4-74449ec83c51.jpg",
+      "6137ce63-ff72-4fac-a6d2-eb7b5c31f446.jpg",
+      "9c07f4f1-8e78-424b-8c51-a132f5d88e0b.jpg",
+      "9c202566-24f9-47fe-aff8-03e10914ccf6.jpg",
+      "b224ba9a-b6a7-42f9-9399-2c0e4e7d6177.jpg",
+      "db8c5cdd-fffb-4ead-8f41-63dcde9a0405.jpg",
+      "fa38751d-eee8-4dc8-9a1c-1cd5c462f8b9.jpg"
+    ],
+    "price": 9800
+  },
+  {
+    "owner": "许军",
+    "area": "朝阳",
+    "areadetail": "望京",
+    "subway": [
+      "13号线",
+      "14号线",
+      "15号线"
+    ],
+    "station": "望京",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "29",
+        "price": 900,
+        "images": [
+          "595f350f-f675-48ab-bf21-cfe9b83fd208.jpg",
+          "6adc8f63-c04b-4d48-b606-fd5b25bec0a2.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "19",
+        "price": 1500,
+        "images": [
+          "326910d1-623a-4662-a5c1-973b68c06e65.jpg",
+          "44f60242-8a0c-4b5e-ae83-165429b59289.jpg",
+          "cedcdf6e-eade-4e79-aa8b-e702ba7583a2.jpg",
+          "e4ac857d-df08-481e-b558-2bd5bc949213.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "1c83b81e-0d8c-4dbf-b1e6-2ab0ccbfcac3.jpg",
+      "31c92351-07da-4dd8-9c19-285afb7c2a19.jpg",
+      "3bc8d127-f9b2-43d5-a803-7f9132477b6d.jpg",
+      "74d32f68-a0e9-4a87-84b3-195ccf6a8d54.jpg",
+      "a5d137a0-1b21-4475-93de-baf685dc9fb5.jpg",
+      "bc5f2eee-9973-45b5-b4c8-22c325904267.jpg",
+      "f46f25a1-d428-45b0-acca-7b9c0bc13a1b.jpg"
+    ],
+    "price": 2400
+  },
+  {
+    "owner": "卢勇",
+    "area": "朝阳",
+    "areadetail": "望京",
+    "subway": [
+      "13号线",
+      "14号线",
+      "15号线"
+    ],
+    "station": "望京",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "24",
+        "price": 5000,
+        "images": [
+          "6d5cbce2-f785-48e5-815b-067401a9525d.jpg",
+          "97d86f3a-254f-44d2-bb70-5536e2b41484.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "19",
+        "price": 1600,
+        "images": [
+          "1015c677-d90a-46df-a49a-e2107c8dadb6.jpg",
+          "13df2ee0-ca7a-416b-8155-2fe268001e8c.jpg",
+          "773085e8-9c27-46fd-b45b-f91c861333fc.jpg",
+          "9739199b-969e-4719-91df-6f79f26b0573.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "00ab6cff-60b2-408a-956b-3541becd7eca.jpg",
+      "0a4d17d6-decb-40ac-aafd-06c32c67b04a.jpg",
+      "2b1d331b-7068-47af-97b1-c86ccdfa68a7.jpg",
+      "30aebadf-1628-40d8-9427-24ac4d78aec2.jpg",
+      "49d33526-f967-4657-b9a9-a5143f234241.jpg",
+      "a503c470-ec5d-45e1-9e0f-f3d4b3dee8bc.jpg",
+      "ca429137-9297-431f-959c-5c17779bc432.jpg"
+    ],
+    "price": 6600
+  },
+  {
+    "owner": "彭军",
+    "area": "朝阳",
+    "areadetail": "望京",
+    "subway": [
+      "13号线",
+      "14号线",
+      "15号线"
+    ],
+    "station": "望京",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "25",
+        "price": 1500,
+        "images": [
+          "e497ffb7-73ee-46da-a291-763ba9138aa0.jpg",
+          "f5701a8a-6433-4c0a-bd4e-735f92a8b2e5.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "17",
+        "price": 1100,
+        "images": [
+          "81d6c140-054d-4388-8ca3-61b9895c9416.jpg",
+          "98ff8c74-f076-4b32-8c3a-71d0394fc83b.jpg",
+          "b6769ca0-ed5b-48bc-94e2-9799f65f1d98.jpg",
+          "cca88b86-efcc-4405-a8d9-153cd829ad73.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "010ec191-b7b8-4e6d-a3ba-07eec2ac015c.jpg",
+      "16a230ec-0934-4e0c-ad1e-83abbcf7787a.jpg",
+      "60a7aad6-4151-4f1a-a70a-a26b5f0c83eb.jpg",
+      "a188ec86-1dee-4c56-b4af-cd9f6b69a854.jpg",
+      "b13e2d83-1fdc-4955-a6bb-4d9217e23fdc.jpg",
+      "eeaad695-49f2-4ea2-9fd9-8f952ebf4ceb.jpg",
+      "f258acf2-4a8b-4d22-a18a-1d7312df020e.jpg"
+    ],
+    "price": 2600
+  },
+  {
+    "owner": "龙超",
+    "area": "西城",
+    "areadetail": "西直门",
+    "subway": [
+      "2号线",
+      "4号线",
+      "13号线"
+    ],
+    "station": "西直门",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "17",
+        "price": 5400,
+        "images": [
+          "b83d7a85-a3c9-467c-99ec-4d088b6ec9d1.jpg",
+          "f806f992-a033-4582-91fa-e3139fb46ddf.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "24",
+        "price": 3200,
+        "images": [
+          "4597ebe6-4ce0-4d49-a4ec-a39ac21bc45a.jpg",
+          "5554eb6c-03ee-4b80-a7d5-778cd933bd96.jpg",
+          "64c92449-18aa-42d5-8db5-6d500c66ab38.jpg",
+          "b0a25307-b52a-427d-ae56-5b300c90417f.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0fd67974-e5c0-4af9-9bbe-847e57e851c1.jpg",
+      "4aa80c1b-4508-4b4d-accd-fd7930de4d89.jpg",
+      "86b8d564-8d68-4cfd-9bc2-f8f3ad84c44f.jpg",
+      "87ae25cf-fd2b-467a-a9e6-2566bd79500f.jpg",
+      "d14cd791-dfec-43dd-ba18-4ddfba3bbdb8.jpg",
+      "d35740f9-d31e-4944-97e5-7859ca487467.jpg",
+      "f7f5e55a-4158-416e-a3fa-16c891ca7131.jpg"
+    ],
+    "price": 8600
+  },
+  {
+    "owner": "蔡磊",
+    "area": "西城",
+    "areadetail": "西直门",
+    "subway": [
+      "2号线",
+      "4号线",
+      "13号线"
+    ],
+    "station": "西直门",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "29",
+        "price": 3700,
+        "images": [
+          "38f14324-63c7-4faa-801f-c278184c5f09.jpg",
+          "a4a5dee1-620e-4b2e-9c08-0bce64ca9973.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "20",
+        "price": 3800,
+        "images": [
+          "22dbef5f-7db2-44d1-8135-2162c6408047.jpg",
+          "34949302-f63f-41d3-979b-5d3ea03b0881.jpg",
+          "816033d5-7bdb-495a-b6dd-eccb0a290f1c.jpg",
+          "96a8f2e1-773d-446f-b26a-552bd3fb6551.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "07e51c54-0b38-47c8-a731-0f5c6afeadea.jpg",
+      "4e42c8f3-dd48-4b18-a1c9-b8388f1ca4f6.jpg",
+      "6e5924f9-bdd7-476c-a4d6-440411ec6475.jpg",
+      "a81a7e94-2a7d-48c4-87dc-58ace4259fc8.jpg",
+      "b09b4ed7-b38a-4294-9fd5-49b5dbfcfce4.jpg",
+      "d6857c99-13af-42b8-a5bb-ad73ab50bb92.jpg",
+      "fc7d9de9-915e-4a99-b939-29907a359a82.jpg"
+    ],
+    "price": 7500
+  },
+  {
+    "owner": "蔡磊",
+    "area": "西城",
+    "areadetail": "西直门",
+    "subway": [
+      "2号线",
+      "4号线",
+      "13号线"
+    ],
+    "station": "西直门",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "23",
+        "price": 4200,
+        "images": [
+          "000fe9e7-ac6f-4e3a-bf23-5e932debbab6.jpg",
+          "5e82cf22-df0e-41f3-8193-fc4c4a7b8772.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "28",
+        "price": 4500,
+        "images": [
+          "34960fde-b075-47bb-8317-e27f84b2c68f.jpg",
+          "38b1317d-4949-4fb1-bc7b-2f7bdb7f1779.jpg",
+          "5ed1d11a-331a-4ccf-88c7-9a4e5eaa67d7.jpg",
+          "867cfff0-1ccc-47c6-8d86-b68b63d3a553.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "25ff0f8e-27ec-49cc-ada5-34fab93ff962.jpg",
+      "2e8073f6-826c-4384-bed7-86f245d2ebf1.jpg",
+      "2fffccd0-00a0-45bd-b04f-b367fa163114.jpg",
+      "4d2e9c0d-e5a7-41b7-b97a-31cce83888b4.jpg",
+      "c8af6c77-8ec3-4964-91a3-824875cc31f4.jpg",
+      "f13db985-827b-4769-838f-2d59d547ced4.jpg",
+      "f26493e3-ddca-45ce-837b-904e2d8d1777.jpg"
+    ],
+    "price": 8700
+  },
+  {
+    "owner": "姚军",
+    "area": "西城",
+    "areadetail": "西直门",
+    "subway": [
+      "2号线",
+      "4号线",
+      "13号线"
+    ],
+    "station": "西直门",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "20",
+        "price": 3100,
+        "images": [
+          "14150c9b-15bd-4a35-8b62-de4f3671e2dc.jpg",
+          "2eaf7b46-9d60-4efb-b217-4f0e5e635d37.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "21",
+        "price": 5300,
+        "images": [
+          "1999ad32-c1e4-402b-a88c-4b4bcaad6217.jpg",
+          "24f5fa59-b2a9-46a0-b89f-05791281869b.jpg",
+          "2538fc69-9cb1-4ef6-9d6d-01de7cc0c026.jpg",
+          "46d27863-a3b2-479d-bbd2-b73672a4e5ef.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "15c232a7-fe9c-4f89-9315-43d1198af5ee.jpg",
+      "39875e94-d549-4024-a531-1bead0215326.jpg",
+      "4b3f04ab-1dfa-422a-9a4e-8ade4a0310df.jpg",
+      "647eb4cc-12de-4bf8-bb12-017f6a927e7e.jpg",
+      "9496aa82-90c7-4f71-a7b1-21296581c765.jpg",
+      "a1fcbab7-fca6-42d4-ba39-10467721e977.jpg",
+      "b0adac27-54ff-4f33-b679-494e68a6d550.jpg"
+    ],
+    "price": 8400
+  },
+  {
+    "owner": "龙超",
+    "area": "西城",
+    "areadetail": "西直门",
+    "subway": [
+      "2号线",
+      "4号线",
+      "13号线"
+    ],
+    "station": "西直门",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "12",
+        "price": 5500,
+        "images": [
+          "2fec6baa-bcfe-4858-ad3a-325c3ebb8800.jpg",
+          "e6214393-2c78-436d-a817-1e9e2a7cbb1a.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "29",
+        "price": 2300,
+        "images": [
+          "0a1a31c3-ebe1-447b-8ff8-ee52cf621792.jpg",
+          "ad79f8cc-422e-41d2-a021-ceda823e4409.jpg",
+          "b205bfad-b3ca-457f-98d5-22c7e20e75b7.jpg",
+          "f54010ad-4c8d-4ec5-beaa-e485a0597ad5.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "2c3b803e-0684-489a-85f6-f52301ac585e.jpg",
+      "63a390ea-5d0a-44f7-9ccb-7e070ea704f6.jpg",
+      "80fd1ca5-230f-43c2-a3ba-9af5161da2ad.jpg",
+      "97a1ef93-17db-45bb-9ff0-8ddb29f0a811.jpg",
+      "b34fe1ea-43e4-42d8-ab5a-381340a879e9.jpg",
+      "f9379ff2-103c-489c-952c-7cfb8a8beb6f.jpg",
+      "f973cf32-482e-462a-9e62-2a8d6c40a3b2.jpg"
+    ],
+    "price": 7800
+  },
+  {
+    "owner": "田明",
+    "area": "西城",
+    "areadetail": "新街口",
+    "subway": [
+      "4号线"
+    ],
+    "station": "新街口",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "14",
+        "price": 2000,
+        "images": [
+          "6a23f7d4-80bd-4b49-b7fe-2b3cdb15398d.jpg",
+          "70a5cea4-d5e4-4b9c-b775-6b80284659cc.jpg",
+          "7e537e60-745a-47e8-82e7-14b9fa18aa82.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "13",
+        "price": 5100,
+        "images": [
+          "48e9ea90-f0fc-4617-90b4-461f1414dd96.jpg",
+          "67afaa2e-e5df-4416-803b-5a5f48d7621a.jpg",
+          "95d0676a-2332-4f7b-b358-e02e84eefcd7.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "27",
+        "price": 4300,
+        "images": [
+          "016b4960-885e-4350-a656-35c1b36f0eb9.jpg",
+          "591cf437-7e9c-495c-9dcd-de0727ede056.jpg",
+          "636900cf-dbbc-483c-9576-7df765c16d33.jpg",
+          "81eed4e1-cb65-4dfe-9218-d37c3ae8b583.jpg",
+          "d7c59cdd-0c6c-4e6f-8155-02a3702b42c1.jpg",
+          "e0d5d939-e89c-42b9-ba25-5128dbb97a52.jpg",
+          "fbd3a755-2513-48c9-8c2a-7be6709503f1.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "150db6a6-3c63-4b3c-a545-5763a8893149.jpg",
+      "1d1c2a1d-231f-46e9-9cf6-a769341e7771.jpg",
+      "7994118d-5469-4788-b25d-ad9e3d0d51a6.jpg",
+      "7ecec628-9ee6-4cfe-91f1-db547a4bb7aa.jpg",
+      "934cb342-e4cf-4b9d-9f65-cc57bd5360d2.jpg",
+      "b62972eb-8b54-406b-bcc2-f0d0eb293e7a.jpg",
+      "c6770b15-bda8-4148-a618-552232ed1ca7.jpg",
+      "f7746b96-9b09-4154-a7f2-812ae649c527.jpg",
+      "fb3ca836-aebd-41f7-82d9-9b8552b4db1f.jpg"
+    ],
+    "price": 11400
+  },
+  {
+    "owner": "姚军",
+    "area": "西城",
+    "areadetail": "新街口",
+    "subway": [
+      "4号线"
+    ],
+    "station": "新街口",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "11",
+        "price": 3500,
+        "images": [
+          "0eeec04c-1685-4d8c-8734-b1e1e02b9413.jpg",
+          "9312721b-049d-47fa-b808-d9338cf6bb7a.jpg",
+          "9eb47435-6af9-4fbc-be25-cfd35abf6ded.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "21",
+        "price": 4800,
+        "images": [
+          "19305332-99ba-4ee6-ba38-ecbbf5fe8118.jpg",
+          "7a68b7f6-e8c5-4841-bfd3-b4a9e8ce001d.jpg",
+          "809c5c05-395a-4b06-ac5d-66b6cac89153.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "28",
+        "price": 2300,
+        "images": [
+          "2906631a-0448-4891-8625-c1058040a391.jpg",
+          "3b6e13b9-dc0b-4006-a2ee-426ff0066c65.jpg",
+          "7351b9e2-03cd-4810-8095-23bf2e96ac75.jpg",
+          "7dddf82b-360b-4564-a443-44e662aea548.jpg",
+          "b432c83f-0cd3-4e3c-9eed-45093de9ded4.jpg",
+          "ba813143-5f72-42e1-a1de-e25814d20f11.jpg",
+          "df0d8c11-9683-4d81-89c6-ef6394b68452.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0151c419-f12b-4492-b292-93a8dd31af22.jpg",
+      "155755fb-e182-47df-8548-31aeba405965.jpg",
+      "476fe1fa-adb5-4d13-8a5b-f27f4b29e00a.jpg",
+      "5486ddfd-9fe1-478f-bf94-7470faa116fa.jpg",
+      "6d3ca87b-8ba4-48c1-b128-55459f343ab5.jpg",
+      "87f8828d-055c-43e6-a431-21d2d632919c.jpg",
+      "8f005259-2e93-4536-b444-63ecf414cbe7.jpg",
+      "d042f0d8-f878-4664-bbad-93b9273b1b7a.jpg",
+      "e1547e28-a626-44b3-bec7-a8a7d1b50e2e.jpg"
+    ],
+    "price": 10600
+  },
+  {
+    "owner": "蔡磊",
+    "area": "西城",
+    "areadetail": "新街口",
+    "subway": [
+      "4号线"
+    ],
+    "station": "新街口",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "24",
+        "price": 4000,
+        "images": [
+          "37f80f06-6ded-4379-b88b-2dd347ef7c73.jpg",
+          "c65b2d0d-4922-4614-9540-700753cccf91.jpg",
+          "dad2bbca-e320-4678-a8aa-0a5ebe3f65c7.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "11",
+        "price": 1100,
+        "images": [
+          "344a5efe-f8ac-45a3-b993-6cff5ae93df5.jpg",
+          "7e58b233-a793-4d53-8c6e-8b00d3c87bf5.jpg",
+          "aa5e4176-7c83-49e1-a6f1-5aa6334f9c81.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "10",
+        "price": 2000,
+        "images": [
+          "63070123-bb38-4e74-9ae9-f30e0c24af6d.jpg",
+          "77705979-7b4f-4c83-83f2-e538fe119f17.jpg",
+          "ca1ba9ea-1215-49f5-a005-88df4f0dd1f7.jpg",
+          "d2b481e1-6313-424a-b6fa-4f6994bbc6d6.jpg",
+          "db3d8cb7-8d9f-48aa-b12c-0df9eb0f49ef.jpg",
+          "e7bb8313-74d9-45de-87aa-7064bc18acc2.jpg",
+          "f46f283a-989b-4f72-a4b0-6d21500beaa4.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "36823750-9f04-41e8-859b-6f24b627db5b.jpg",
+      "4033d180-b29b-449e-a85a-5b6489e6d661.jpg",
+      "4b8e411e-28ec-45c8-9ecd-5d349f28615e.jpg",
+      "8c9ff665-b16b-4cf9-81f2-04bb89800596.jpg",
+      "9f07e996-b819-4a0d-9bcd-502dce2834dd.jpg",
+      "a752a459-64b7-4eb3-9d42-fcc87ea66b35.jpg",
+      "ba953677-7467-48d8-acc1-507fffc49ae4.jpg",
+      "dda9b5df-a079-46de-99eb-767274966c2b.jpg",
+      "ed9441be-d315-4aef-bef6-892c34a7ec64.jpg"
+    ],
+    "price": 7100
+  },
+  {
+    "owner": "彭军",
+    "area": "西城",
+    "areadetail": "新街口",
+    "subway": [
+      "4号线"
+    ],
+    "station": "新街口",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "10",
+        "price": 2400,
+        "images": [
+          "61465f18-5e95-47d3-8432-007f749c9044.jpg",
+          "810114e2-a5a7-46cc-9a74-c741fc73ef97.jpg",
+          "cdfa6872-904b-436d-833a-e8752cb1450a.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "26",
+        "price": 2600,
+        "images": [
+          "5d2681f5-d244-44c3-a13d-4d305ed8bd95.jpg",
+          "76cbfd52-e716-404e-a2ca-0e407ce5d9a7.jpg",
+          "9c42fd08-1d30-492a-9f7e-557c5a6802ba.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "16",
+        "price": 2900,
+        "images": [
+          "10455b32-9859-4df5-a3d7-6a7065aaa613.jpg",
+          "115078d7-bfcf-445e-a03a-50d9974243a9.jpg",
+          "4af23421-cebf-4f90-819c-e7d83486af24.jpg",
+          "6eea3b92-2eb8-41aa-b836-053f760930d6.jpg",
+          "b6136fbb-7c6a-481a-9b81-adfbb00a5fbf.jpg",
+          "c00f5acb-d2ea-4370-af13-78c74758507b.jpg",
+          "c4d5caf6-1c17-4ebd-948e-8e874c4f6d6a.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "10b7a530-1839-4001-a1b5-4ddd9eeda11f.jpg",
+      "16011582-0112-47d2-ab9c-c39c7acb7d03.jpg",
+      "17327e94-fa6d-4f0b-8acb-3cbde82846e5.jpg",
+      "1738a844-c92a-4000-b861-a78f286d02c6.jpg",
+      "3e326bc5-365e-480a-91f6-aade5d27a53a.jpg",
+      "5adb5cb5-07d8-436b-8f71-91cb93965b19.jpg",
+      "af2e9608-8193-4e7a-acd1-bb43666f23af.jpg",
+      "e4de2bb3-113a-4b8f-b042-f2fe92064490.jpg",
+      "f6e4980f-2e8c-4cab-8289-2e495dd50c5e.jpg"
+    ],
+    "price": 7900
+  },
+  {
+    "owner": "彭军",
+    "area": "西城",
+    "areadetail": "新街口",
+    "subway": [
+      "4号线"
+    ],
+    "station": "新街口",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "23",
+        "price": 2200,
+        "images": [
+          "2f9a9ebc-995a-492a-8fd5-534d63b83e72.jpg",
+          "a09ac753-de7a-4144-80fc-b09ccab7169d.jpg",
+          "ffaf90e1-50ae-4e1a-ad9d-1d5f2e596b45.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "29",
+        "price": 2500,
+        "images": [
+          "215bb75f-63cd-420b-b8d6-31d2ec6d31b5.jpg",
+          "26aa714d-8b01-4008-a1d9-2213851102e5.jpg",
+          "8f8da47c-742e-4fef-b09b-8523923bec0d.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "24",
+        "price": 3400,
+        "images": [
+          "0f9dfbbc-68b1-4642-9077-52842e2b88ce.jpg",
+          "25ca4a67-2037-4cda-89f8-90defaef9289.jpg",
+          "2d1d30d6-72a6-4d62-bb13-76e3cbeec3f9.jpg",
+          "4b17275c-1498-4317-ada2-5a3d11d100cf.jpg",
+          "5eee9bbb-6139-4972-a59b-ddd92039c101.jpg",
+          "64f7ca82-da05-45c3-a49b-cf8683097d3a.jpg",
+          "bb316bb6-b5f4-4ff2-b1dc-18d1cd06260c.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "02c1967f-c3a7-400d-a0dd-65a356789e9c.jpg",
+      "2cd3e4fb-d58d-48f3-bbed-27a0a6606ae5.jpg",
+      "4f093a3d-3cdc-40e3-b70a-01a3f3fd6af3.jpg",
+      "6fddbbb2-90bb-4bfd-be7f-203a96232121.jpg",
+      "99066f81-cd88-4122-a5b2-86bcad88cc47.jpg",
+      "b34210d6-a3cd-48fd-bceb-faff0444bdfa.jpg",
+      "d296759e-dd86-4604-910c-3fc355e4b9d9.jpg",
+      "decf0fb1-6451-4045-94b4-ccbc4fd182e8.jpg",
+      "fa9d7fc3-1f22-4b97-83c4-0a2b83a42476.jpg"
+    ],
+    "price": 8100
+  },
+  {
+    "owner": "邱丽",
+    "area": "海淀",
+    "areadetail": "西二旗",
+    "subway": [
+      "13号线",
+      "昌平线"
+    ],
+    "station": "西二旗",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "20",
+        "price": 4300,
+        "images": [
+          "034ca9a2-d152-4759-9138-91bb94547f8e.jpg",
+          "8f0223de-ecdf-46b9-8463-939ec29bd5db.jpg",
+          "fadce4df-6b9d-4fc5-bf0f-1bf93b0cc6fb.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "16",
+        "price": 4500,
+        "images": [
+          "37546ead-205f-4770-8461-80586c2224a5.jpg",
+          "c82cc914-9516-4a5c-a3b7-bc3bc941b59a.jpg",
+          "d295afff-48c6-495a-b296-56f7dd73207e.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "11",
+        "price": 2700,
+        "images": [
+          "05ed015a-81e1-4be1-a8b1-8454b4db6dec.jpg",
+          "22818750-a204-4370-8d27-a281bd37f73e.jpg",
+          "4029dd23-7976-42e7-a790-7090f1da29cf.jpg",
+          "8cae94cb-19d1-457e-be27-b29888093e39.jpg",
+          "ac3fc25d-4d1a-4d86-a64c-dd736c01b3ea.jpg",
+          "c319ab45-5ffe-4724-a169-50edb052a5a5.jpg",
+          "d71a8029-1d89-43fb-bd95-b10d5d64852c.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "2ff68cfc-d7ec-48a0-8946-58d00b4db1ec.jpg",
+      "421f4021-3dca-4b9f-96cc-1dc1d0749156.jpg",
+      "59d40f16-05c4-4aa6-9a2b-0ef82fd17f23.jpg",
+      "7f4fc098-e398-425f-a5ab-3e8c42b676b9.jpg",
+      "8c86d34a-443b-4187-bb30-c83ee0801dbf.jpg",
+      "942a09aa-9fd3-4233-b0b4-7a08bd619851.jpg",
+      "edf0cf67-a804-455d-be78-1108caf7f691.jpg",
+      "f1a2f220-3181-4dce-b91a-f0864a02550f.jpg",
+      "f32de558-a1ee-4131-8d51-dc3c8ded078b.jpg"
+    ],
+    "price": 11500
+  },
+  {
+    "owner": "姚军",
+    "area": "海淀",
+    "areadetail": "西二旗",
+    "subway": [
+      "13号线",
+      "昌平线"
+    ],
+    "station": "西二旗",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "15",
+        "price": 3700,
+        "images": [
+          "9ad6c9af-dcfd-42dc-bb39-66219f76e36c.jpg",
+          "b35ad32b-0faa-491f-9d75-ca4db6cbf3a0.jpg",
+          "c2cd426e-5c6c-4b89-91c6-73ea9639e9ff.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "27",
+        "price": 4800,
+        "images": [
+          "1ccb5316-b124-4997-adee-b36d19f7e2d6.jpg",
+          "3cd5b64e-d9a3-473b-9667-0a7c5d5e9849.jpg",
+          "8e926828-cf9a-450c-96bc-60cb3ffd4c5f.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "11",
+        "price": 2000,
+        "images": [
+          "03580a46-2e6a-4cb9-b992-3ccdbf0e2177.jpg",
+          "091e97ae-57dd-4286-8671-5a31c17f539e.jpg",
+          "3c1382f7-4405-4fcd-a00b-bdac5f8f83bb.jpg",
+          "43d41709-b832-414e-b6b8-1b3af1c49657.jpg",
+          "72e23857-4a0f-45c3-bbe3-13d060c993eb.jpg",
+          "e4bdf890-6c13-4d7c-8a07-d2ab412c8696.jpg",
+          "f25c41cd-eb66-479b-9a3c-16a67b8b3ec2.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0951d6a6-6c77-4275-a31d-bca199615571.jpg",
+      "1addf9e2-3513-4aca-9076-483ef3bacc09.jpg",
+      "1d90f02f-efb0-491d-9d70-ea6e93023cd6.jpg",
+      "1e7699df-1983-4f16-8d14-23533549e62c.jpg",
+      "301d9952-d040-4f67-8f78-b3ffa396e33b.jpg",
+      "308075bd-ac2e-4c76-9593-b8faa23b65c5.jpg",
+      "4aca2311-c6a3-40b6-b43e-70ae0184ddf5.jpg",
+      "b56f7320-a13a-40db-a827-fd51d3d94fe2.jpg",
+      "c87067ea-1200-448a-bfda-f4bfdf95fc72.jpg"
+    ],
+    "price": 10500
+  },
+  {
+    "owner": "任军",
+    "area": "海淀",
+    "areadetail": "西二旗",
+    "subway": [
+      "13号线",
+      "昌平线"
+    ],
+    "station": "西二旗",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "27",
+        "price": 4500,
+        "images": [
+          "015e7d97-827a-4ebe-94b3-9b1a5f5ee990.jpg",
+          "b7188164-d61d-49bd-ad57-3999c5d92e46.jpg",
+          "ec655bbb-6057-4864-986b-08f6b33e1e23.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "22",
+        "price": 1100,
+        "images": [
+          "3eeca7a2-c906-472e-91a5-c62d8f87a290.jpg",
+          "a6df4dcd-fca7-4dcc-8137-745bf8d12893.jpg",
+          "b8af2d08-920f-4b59-98a7-58336e4458d9.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "13",
+        "price": 4300,
+        "images": [
+          "4976fbc7-0fee-47fb-bb67-766b5d4b0683.jpg",
+          "664bdb77-c316-46d9-95fa-5e6aef4d9011.jpg",
+          "7fb2c0bd-f418-4423-bec6-025f03efdf9a.jpg",
+          "82957bd3-be83-4c12-bd91-0e4ce4f31812.jpg",
+          "879af642-a93d-48ac-aa09-d68adf6402e0.jpg",
+          "88905bc5-1bec-4957-8772-6870063a89dd.jpg",
+          "a559a0f3-a1d5-4bba-8697-0224586127a0.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "050021e9-1901-4d43-9a2f-9e4440b79b82.jpg",
+      "299b57bb-ab39-4ab3-a118-99c179a63fc1.jpg",
+      "47b0b092-d326-404a-bda2-4e0ae3df019a.jpg",
+      "50ea254f-d036-4079-b648-d8742d23c598.jpg",
+      "57260a96-1a3c-4c70-978e-736454ca227d.jpg",
+      "865e29cd-9b9e-4948-9612-13ef4bd93b00.jpg",
+      "88938f22-84ea-4ba3-9549-c084be42e123.jpg",
+      "abdc0487-21ec-4040-aa48-36917d5947ea.jpg",
+      "c113475d-a4b1-4b6e-a183-e09f9e82aa67.jpg"
+    ],
+    "price": 9900
+  },
+  {
+    "owner": "蔡磊",
+    "area": "海淀",
+    "areadetail": "西二旗",
+    "subway": [
+      "13号线",
+      "昌平线"
+    ],
+    "station": "西二旗",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "18",
+        "price": 4200,
+        "images": [
+          "06e2d955-3248-4d6b-a47a-aa850212f883.jpg",
+          "3d8475cb-7698-4767-a69b-ce532cd43565.jpg",
+          "cc001b12-56d9-47d7-a1d7-e478a43722d2.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "28",
+        "price": 4300,
+        "images": [
+          "327697d3-8f8d-4b35-8f19-ef78cc51391c.jpg",
+          "339d832b-b218-440b-a3d0-19bbe18f1b3b.jpg",
+          "e5a9779d-0978-457c-889e-85c8b8f86d6d.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "29",
+        "price": 3200,
+        "images": [
+          "04fed4a1-34f9-4079-983f-7fef7c59734d.jpg",
+          "4b1827b9-82c1-46fd-a98a-2318739a8f48.jpg",
+          "629f7c33-1981-4496-94e2-991fa4bd99cd.jpg",
+          "9b9d212d-f48f-4036-b66c-4d725a95c0a9.jpg",
+          "bd60fb76-9f52-44ef-9d43-0f51ff3d742c.jpg",
+          "bda8b9e9-11b2-4c66-9039-ff27eb80974b.jpg",
+          "ffc2cbe1-8e3e-438a-b4ca-4cc3a90a785c.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "2f25f214-96f5-4ccb-945c-0ee2946d8759.jpg",
+      "43f216cd-5f6b-4bca-be87-2b0c78649e7a.jpg",
+      "4db37b99-23a3-4774-920e-a86dd331724a.jpg",
+      "551ec2e2-8a7e-4b35-8afa-b4c4c5851f49.jpg",
+      "7337b100-a5d8-4824-96c7-1f61a8ad020c.jpg",
+      "91d8a1cc-7667-4fa8-a4c3-8de92df7527f.jpg",
+      "92b3616f-f751-4e9f-848c-a39c8bb7196e.jpg",
+      "cb28fc6a-b7f6-4b60-8524-7d52d3e900d0.jpg",
+      "d4da5bec-8469-4060-a633-b0ca0ef1c6d2.jpg"
+    ],
+    "price": 11700
+  },
+  {
+    "owner": "曾娟",
+    "area": "海淀",
+    "areadetail": "西二旗",
+    "subway": [
+      "13号线",
+      "昌平线"
+    ],
+    "station": "西二旗",
+    "roomAmount": 3,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "27",
+        "price": 2500,
+        "images": [
+          "1bbd9a0a-3468-407f-91e8-42f29a7fb7ff.jpg",
+          "a6b00490-2fbf-40aa-bf01-05c1a2a86914.jpg",
+          "c12925ef-c1d6-4c56-834b-0e7242849abd.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "22",
+        "price": 4300,
+        "images": [
+          "5fb6e28b-1884-49b3-9249-dd12240ad16f.jpg",
+          "73db8d44-cc0a-4001-88e9-15d2f9eb623c.jpg",
+          "859088c3-9027-47fc-93a7-004e92bed91f.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室3",
+        "position": "西",
+        "room_area": "19",
+        "price": 2600,
+        "images": [
+          "870438f9-2f9a-48c1-a216-5ad5ab69d193.jpg",
+          "97f4b08c-273d-4c5f-aef6-e2ede11b6ac0.jpg",
+          "a2513b10-01eb-489f-9e14-a54f6dc87bd4.jpg",
+          "ab68c6ef-962f-4795-9662-1797c59c9274.jpg",
+          "bc5ce987-c7d1-4524-bf46-9a77acac3f77.jpg",
+          "d95507a0-d497-4bc4-ba37-ef21f12a4c55.jpg",
+          "f36428b3-5f24-4aa1-93da-1584b6f0085a.jpg"
+        ],
+        "path": "room3",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "1d942874-e61d-4379-84cc-43a655b82285.jpg",
+      "20e99421-1af1-4245-abc3-6f3a50fd54ce.jpg",
+      "53f794a6-5d79-40c7-882b-e4be0cf202cb.jpg",
+      "6bf322f0-1a03-44f0-b783-3b6e75711ded.jpg",
+      "8c130828-69cf-413d-b580-669d1093a512.jpg",
+      "98e20728-8a4b-4083-88ac-a78d101c27a4.jpg",
+      "abb1ba30-6eae-464c-acc6-7c3cc8564a08.jpg",
+      "ed317635-1435-4206-8c22-d1c83841d3e4.jpg",
+      "ee2a5d02-0926-4d68-a2f6-009d4ed2bc5a.jpg"
+    ],
+    "price": 9400
+  },
+  {
+    "owner": "曾娟",
+    "area": "海淀",
+    "areadetail": "西三旗",
+    "subway": [],
+    "station": "",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "20",
+        "price": 5100,
+        "images": [
+          "4f20eb9e-ec48-4fe5-b82a-766971f9fcbe.jpg",
+          "6aa05e30-21c8-426c-94d4-41cdcf1e839b.jpg",
+          "81fee7ca-e6d8-4074-8063-e39bd0b60f03.jpg",
+          "f48dfb14-1a46-4054-903e-bcdaf16a1dc5.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "22",
+        "price": 3900,
+        "images": [
+          "455fe9ae-6815-4da3-99fd-45e84cddb3a3.jpg",
+          "915c9a72-668f-4bb9-ac7e-227d2acdf55f.jpg",
+          "e12c8a09-3eaa-4553-9767-24fb1a650148.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0f75a65c-03f8-460e-827d-8ae79f7c173b.jpg",
+      "10177fe3-ae7b-4e64-a9dd-7d57a50a215e.jpg",
+      "6968acea-4a51-4dc2-887e-958c07c7b558.jpg",
+      "aa9a899c-8b84-4803-9d1d-3298b4794d89.jpg",
+      "d90e037c-8c2f-4df8-80b7-2b9ee286c7d5.jpg",
+      "d91112aa-a25b-4f4e-8f28-e410ad9ea0a1.jpg"
+    ],
+    "price": 9000
+  },
+  {
+    "owner": "张平",
+    "area": "海淀",
+    "areadetail": "西三旗",
+    "subway": [],
+    "station": "",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "13",
+        "price": 1200,
+        "images": [
+          "276c6499-7f04-4156-b64e-0e4b711a8068.jpg",
+          "304d3182-cc87-41e8-8098-b82fb0ec9e68.jpg",
+          "695c3440-c428-4cd3-9f3a-fb2dd575dd59.jpg",
+          "8bc539d8-787d-41a2-a199-775792b8c78a.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "21",
+        "price": 2100,
+        "images": [
+          "418432d3-32fd-43b1-88ce-68012f914cf4.jpg",
+          "8b914055-dade-4437-bbf7-4c62936fed65.jpg",
+          "b52a94b0-880b-481c-b47b-e15e1547aa07.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0c1355cb-d4f2-49a0-a3a4-e6f32aff8e3d.jpg",
+      "2b362496-6ab4-45db-9a0b-46272c9f7d41.jpg",
+      "49b460c2-7e27-40f9-8bc2-d3127c3e478b.jpg",
+      "71d0de2c-2d59-477d-875b-cbb18f5254a8.jpg",
+      "7f91f748-f2c7-4d95-bcb7-18f742481819.jpg",
+      "f2dfd180-b4e5-4ab2-b161-4a0d6ccf585b.jpg"
+    ],
+    "price": 3300
+  },
+  {
+    "owner": "张平",
+    "area": "海淀",
+    "areadetail": "中关村",
+    "subway": [
+      "4号线"
+    ],
+    "station": "中关村",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "13",
+        "price": 800,
+        "images": [
+          "45b1266b-bb39-4da8-af0b-d29b49f9a58a.jpg",
+          "799f2bad-ae91-4697-a56b-67259d4b2358.jpg",
+          "b78ae27c-1f13-4db3-887b-dbc540cfc3f9.jpg",
+          "bb224a01-5a15-4d1d-ae93-3c2386fcae78.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "14",
+        "price": 4000,
+        "images": [
+          "04e723ab-60bc-4dfc-869a-4997ee5d156b.jpg",
+          "3aadf046-eb89-49c8-9025-9108360aa9e3.jpg",
+          "c9effac9-91fe-4a87-880f-041e14e8a075.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "111430cf-59f8-40b0-8bd8-c7c908e951eb.jpg",
+      "159a372c-756c-4713-ba5d-f2b343475e14.jpg",
+      "2dbc1f88-b445-4002-9869-80af2ec772c5.jpg",
+      "9aaf1cb6-0b08-42af-b8f9-30df4f65c937.jpg",
+      "acef5b03-e64a-43b0-b72e-39ce774c41f5.jpg",
+      "b6892933-26b2-4ed2-bfc3-98d1b52fd674.jpg"
+    ],
+    "price": 4800
+  },
+  {
+    "owner": "邱丽",
+    "area": "海淀",
+    "areadetail": "中关村",
+    "subway": [
+      "4号线"
+    ],
+    "station": "中关村",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "12",
+        "price": 5200,
+        "images": [
+          "04ed8802-e3e8-43ed-89a1-aa9df9a876b0.jpg",
+          "5202a16b-7c5f-4952-b61e-59417b642775.jpg",
+          "98304fbd-264b-41e5-a26e-ba1dc33a961a.jpg",
+          "a879f823-acd9-42fc-8e89-327ca373f175.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "20",
+        "price": 900,
+        "images": [
+          "325a551b-fdef-4204-812a-4f52d5b25bb7.jpg",
+          "79e9301b-ef50-47be-9b43-371eb4d6de74.jpg",
+          "fd97a93f-b4e0-4b4c-869c-b40d70a13fff.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0eb7a942-eb51-49ac-bc5c-bc736b5affd5.jpg",
+      "1ae51959-9f02-45da-b87c-e47f07766ed9.jpg",
+      "2381e2dd-e76e-46c1-9e8c-1cbca6d7ab77.jpg",
+      "332583f3-88cd-45ab-a93c-16eedfa5e12d.jpg",
+      "4f1eeb01-6353-4f45-ba7b-66e8664a72c7.jpg",
+      "c7886f6d-47b6-4bad-afc2-fb32388a6970.jpg"
+    ],
+    "price": 6100
+  },
+  {
+    "owner": "梁刚",
+    "area": "海淀",
+    "areadetail": "中关村",
+    "subway": [
+      "4号线"
+    ],
+    "station": "中关村",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "14",
+        "price": 5400,
+        "images": [
+          "1a0ab098-94a5-4873-86d3-193cbea1d09d.jpg",
+          "40a78dcb-3b12-44b9-9459-2bae66b6c753.jpg",
+          "da3e7aa8-704f-48c1-a976-bf5d01ec2bb2.jpg",
+          "e3aa1e72-4be8-4460-929b-0229aca3581b.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "26",
+        "price": 5400,
+        "images": [
+          "a1b9816c-3f76-407c-a1be-fcf818804199.jpg",
+          "b62117e4-189b-4a32-b99b-ac9b7d4dac22.jpg",
+          "d2838ce0-9bda-4a9b-a4d0-057390d967da.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "b6efe1a4-8a27-4f1a-94a8-1b74d30d9bce.jpg",
+      "c57273d1-4447-4390-abf4-62397d3ebe80.jpg",
+      "cf6c37d3-05ac-4af7-b85f-69ebed8e2752.jpg",
+      "d4230b90-156b-4884-9d8a-b8c6690a92f6.jpg",
+      "ea412c00-3d87-43aa-a23d-19c6c8d40417.jpg",
+      "f4ab2484-b996-4d73-825b-97864cb58eef.jpg"
+    ],
+    "price": 10800
+  },
+  {
+    "owner": "邓平",
+    "area": "海淀",
+    "areadetail": "中关村",
+    "subway": [
+      "4号线"
+    ],
+    "station": "中关村",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "20",
+        "price": 3800,
+        "images": [
+          "5103a82d-cabd-41f0-bed3-a1f9aef55545.jpg",
+          "a126ea4f-a96c-401b-b3fc-da36dccf49ab.jpg",
+          "ace791cb-0c36-4518-bd3f-99f9933388a5.jpg",
+          "c93d1c74-0b1f-4ae9-977a-0173c133aa75.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "14",
+        "price": 4000,
+        "images": [
+          "61442a7f-e459-47f8-aa2f-ca9d3b947b00.jpg",
+          "b74ed7f3-b874-4737-a9b7-32a353f38826.jpg",
+          "f2196371-598f-499c-974a-ff3cc9d0305a.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "5d1a8ce9-bf16-4a25-b712-c521f4bde73f.jpg",
+      "65aed9bd-41d6-4438-8319-7938356aecec.jpg",
+      "673beca5-0cae-4625-be8a-ad943cca883b.jpg",
+      "7d9a5a22-0993-4faf-833b-0875698258cf.jpg",
+      "9d021948-cbf0-4c37-a16f-96bcdac7b1b1.jpg",
+      "d3deb4cf-9b90-4efe-8bb2-28781a8f9442.jpg"
+    ],
+    "price": 7800
+  },
+  {
+    "owner": "梁刚",
+    "area": "海淀",
+    "areadetail": "中关村",
+    "subway": [
+      "4号线"
+    ],
+    "station": "中关村",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "29",
+        "price": 1400,
+        "images": [
+          "32e1650d-6117-4ce8-93d7-23c88bff6910.jpg",
+          "4142826c-2f18-4af2-8e51-d19487d892eb.jpg",
+          "4c61c4f5-bc20-4f4c-8ce4-85b5119eb68a.jpg",
+          "920d39ab-86f0-4fd2-a7e9-b9a2a432d70c.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "24",
+        "price": 4800,
+        "images": [
+          "0bce5139-d803-40ab-9a86-3bcaaad6f75f.jpg",
+          "69c2afd1-2f3f-46fc-a9ec-73b911dbbfc4.jpg",
+          "f07833c6-43fe-491b-bc57-0b75d704b2b6.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "018ee161-4a03-49ad-8222-0a0612197072.jpg",
+      "15bfa8c2-9605-42f5-beae-89a99011c58b.jpg",
+      "51dd6bba-faef-440f-846f-ae42fb52a4f5.jpg",
+      "69265087-6877-4fd9-a8c4-84aa62c50602.jpg",
+      "b72565d0-d9b3-493f-a711-da6c92c14889.jpg",
+      "feb22679-e719-4b14-a795-e4d8e85ec50a.jpg"
+    ],
+    "price": 6200
+  },
+  {
+    "owner": "金霞",
+    "area": "海淀",
+    "areadetail": "中关村",
+    "subway": [
+      "4号线"
+    ],
+    "station": "中关村",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "13",
+        "price": 5600,
+        "images": [
+          "3661088a-8f06-4e26-a528-06cde97f067d.jpg",
+          "c64d953f-e501-4a59-9b80-7b48ee63a184.jpg",
+          "ddabc80e-8c87-4dea-844b-f44795dd7062.jpg",
+          "fb1f4b40-75e9-4b8d-a058-1792345789d3.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "12",
+        "price": 1500,
+        "images": [
+          "2b546b00-e17e-4d98-a03f-17af2ebad4d8.jpg",
+          "7255dcb9-da25-4068-ab0c-212cfca6b07d.jpg",
+          "adabbf2d-391d-4991-9e95-5abbc51e9322.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "1677e48f-9933-4259-8fa1-eabfb9ee7ec5.jpg",
+      "28ce5abb-df7a-4f56-9d1d-eb77b7578841.jpg",
+      "5b48e7a3-0f7f-4471-a530-0a513bf506ff.jpg",
+      "73a3de50-92ec-4665-b642-12d9cac7c360.jpg",
+      "a615718e-07e1-4c1e-bacf-0c83a94da208.jpg",
+      "e204ddd4-9bf8-4e88-8fb4-a7883f029924.jpg"
+    ],
+    "price": 7100
+  },
+  {
+    "owner": "马军",
+    "area": "海淀",
+    "areadetail": "中关村",
+    "subway": [
+      "4号线"
+    ],
+    "station": "中关村",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "20",
+        "price": 4600,
+        "images": [
+          "6c48077b-10ed-4aa5-875f-c4f17c1dabe6.jpg",
+          "71935fe4-4251-49b7-8f8f-7a824a7bc53f.jpg",
+          "bc268098-0a88-49fa-bc9d-39c109e6cc5a.jpg",
+          "ce5f3d5c-8e98-43d3-a9bd-a6d27ed84fba.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "24",
+        "price": 5100,
+        "images": [
+          "3be4bf70-b634-492f-be56-5891995f69ed.jpg",
+          "5c244d73-d786-456a-ad39-3b6adae5e902.jpg",
+          "aace0d59-5ba1-405d-a274-fedd378a5f7d.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "0760c195-de6f-4682-a1a5-c465e8793b17.jpg",
+      "1bb0456c-2623-46bc-a5d1-b70db39c9920.jpg",
+      "3c42a2c3-f920-435c-9530-90e825f19c4a.jpg",
+      "89c4ab0d-93b7-4b3b-a513-75716299fa4e.jpg",
+      "ba9c79cb-9825-41b4-a423-4f57815c90c1.jpg",
+      "e0546be7-3381-4d36-831e-c5132e5c8ad0.jpg"
+    ],
+    "price": 9700
+  },
+  {
+    "owner": "宋秀兰",
+    "area": "东城",
+    "areadetail": "崇文门",
+    "subway": [
+      "2号线",
+      "5号线"
+    ],
+    "station": "崇文门",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "29",
+        "price": 3200,
+        "images": [
+          "30bf9ede-ab29-4ecd-bf89-f12b46801dc9.jpg",
+          "89016db7-9d70-4750-94c8-3a5a33da17e8.jpg",
+          "aacd8939-6b84-415a-8fa2-f751ba7127ad.jpg",
+          "bc5b1b39-165b-4765-9af9-a39eb6f8a8ba.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "14",
+        "price": 2800,
+        "images": [
+          "27c09032-147b-4106-8320-06ca3895b8b5.jpg",
+          "72de8595-a329-43c9-9902-0a679ab6a7d9.jpg",
+          "9e53e302-6f7f-4442-84d1-333524b6d1a8.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "00897f9d-de5e-4407-901e-d03090202800.jpg",
+      "42b90cb0-98e8-4537-a8a4-cf41e97e88d8.jpg",
+      "43c64b35-5241-4e63-ba64-3c74f6d936a3.jpg",
+      "95e504c0-ab41-489b-b5ee-2e445a2cf98f.jpg",
+      "d1a3900e-05ae-4255-b5e7-d2b2c402c09f.jpg",
+      "f4902762-24ad-4884-8f91-eb7c4ab09f8b.jpg"
+    ],
+    "price": 6000
+  },
+  {
+    "owner": "邓平",
+    "area": "东城",
+    "areadetail": "建国门",
+    "subway": [
+      "1号线",
+      "2号线"
+    ],
+    "station": "建国门",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "24",
+        "price": 3900,
+        "images": [
+          "4ed889a3-3d2c-4d39-a977-2eb35ff3a585.jpg",
+          "5576f448-2948-4b5c-aaba-0663f915a599.jpg",
+          "8fefae58-44bf-47d2-96c6-e30c1bfe917a.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "16",
+        "price": 1200,
+        "images": [
+          "408849ab-c553-45df-8c27-57686002cb98.jpg",
+          "e6c7e472-27ef-4d99-8a64-ddc61a899dd1.jpg",
+          "e8dc1173-6cc6-400a-8b11-5ca120cd6566.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "01408d48-de62-49cc-96ae-a13208e3c04c.jpg",
+      "0fbb6dec-3603-4479-9cd9-6c4e51a1e839.jpg",
+      "2656e5a0-dc4e-44c5-a6ec-c4e3ecb2ffcb.jpg",
+      "98f271a5-4e84-476d-840e-77993c255425.jpg",
+      "aea25add-eb44-4219-adef-a5cecfd6dc0c.jpg",
+      "bd380f9e-5113-443a-9617-d473bf485098.jpg",
+      "d5747782-b5bc-48e6-98fb-261e29c7af6c.jpg",
+      "f0e4015b-93de-46ec-8d5f-e4731f0ae959.jpg",
+      "f8fe5241-2359-4fed-9d87-45bc8bc1d5a3.jpg"
+    ],
+    "price": 5100
+  },
+  {
+    "owner": "邓平",
+    "area": "东城",
+    "areadetail": "建国门",
+    "subway": [
+      "1号线",
+      "2号线"
+    ],
+    "station": "建国门",
+    "roomAmount": 2,
+    "rooms": [
+      {
+        "room_name": "卧室1",
+        "position": "南",
+        "room_area": "19",
+        "price": 3400,
+        "images": [
+          "3a68c7ae-0993-490b-934a-86f723352ad1.jpg",
+          "3c5d62b2-e3a2-4138-bfd0-3ece1abb8bc7.jpg",
+          "8e2c5567-63d0-4b12-9082-bbcb548461c8.jpg"
+        ],
+        "path": "room1",
+        "ischecked": false
+      },
+      {
+        "room_name": "卧室2",
+        "position": "北",
+        "room_area": "13",
+        "price": 4800,
+        "images": [
+          "7f05ad1f-03bb-4976-90cf-e3041fe014f3.jpg",
+          "b47b4fb9-58bc-46d4-9e0d-85a7833d6d92.jpg",
+          "d82e9f52-9249-42f5-918f-afe93589c135.jpg"
+        ],
+        "path": "room2",
+        "ischecked": false
+      }
+    ],
+    "otherviews": [
+      "063d6708-a752-42f5-b912-d429b67221ff.jpg",
+      "136cee7f-b23a-4569-8982-6d18fa58a184.jpg",
+      "285838d0-51a7-4cb1-a24e-af9961576701.jpg",
+      "9c0925ca-2366-41bf-a59f-d5f830e60db7.jpg",
+      "a098fcd9-3829-4609-b145-fd13dc0e49e7.jpg",
+      "aa69ad19-54ad-4609-acd9-f88f3ef1941c.jpg",
+      "d2f5a474-f423-4b91-a723-0757fe610abf.jpg",
+      "eb5b2933-63f1-407a-8369-678266921cef.jpg",
+      "f6ce4f5c-19bc-4cbc-99cc-0fbe0a75889f.jpg"
+    ],
+    "price": 8200
+  }
+]

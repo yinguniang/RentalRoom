@@ -1,0 +1,7 @@
+﻿//在项目的data目录下运行
+mongodb --dbpath d:\database //开启数据库 ， 不要关闭窗口
+mongoimport -d rentinghouse -c houses housedata.txt --drop //导入数据库 40条记录
+//在项目的根目录下运行
+node app.js                   //开启服务器 ， 不要关闭窗口
+
+webpack               //当www文件夹下的js文件更新时执行， 用来生成打包后的js文件工具不要关闭窗口

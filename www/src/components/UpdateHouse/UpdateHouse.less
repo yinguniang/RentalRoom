@@ -1,0 +1,137 @@
+@import "../../containers/App.less";
+@import "../../../../node_modules/antd/dist/antd.less";
+
+.content_box {
+    padding-top: 30px;
+  }
+  
+  .hd {
+    padding: 6px 0;
+  }
+  
+  .shangchuanniu {
+    width: 30px;
+    height: 30px;
+    background: url(/images/jia.svg);
+    font-size: 80px;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .imgbox {
+    border: 1px dotted #ccc;
+    padding: 20px;
+    min-height: 100px;
+    overflow: hidden;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width : 90%;
+    .preDiv {
+      width: 100px;
+      height: 100px;
+      border: 1px solid #eee;
+      float: left;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      background-position: center center;
+      background-size: cover;
+      position: relative;
+      
+      em {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 98px;
+        height: 98px;
+        background-color: rgba(0,0,0,0.5);
+        transition: all 0.5s ease 0s;
+      }
+      
+      i {
+        position: absolute;
+        top: 60%;
+        display: block;
+        width: 100%;
+        text-align: center;
+        color: white;
+        background: rgba(0, 0, 0, 0.6)
+      }
+      b {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 16px;
+        height: 16px;
+        text-align: center;
+        background: url(/images/close.svg) rgba(255, 255, 255, 0.6);
+        background-size: cover;
+        display: none;
+      }
+      &:hover b {
+        display: block;
+      }
+    }
+    
+    &.cur {
+      border: 1px dotted orange;
+    }
+    
+    img {
+      width: 60px;
+    }
+  }
+  
+  .btn_box {
+    padding-top: 30px;
+  }
+  
+  .filebox {
+    height: 300px;
+    overflow-y: scroll;
+    border: 1px solid #ccc;
+    padding: 10px;
+    
+    .rrrrow {
+      padding: 6px 0px 2px 10px;
+      line-height: 22px;
+      
+      .tools {
+        display: none;
+        
+        a {
+          margin-right: 6px;
+        }
+      }
+      &:hover .tools {
+        display: block;
+      }
+    }
+    
+    .rrrrow:nth-child(2n) {
+      background-color: #eee;
+    }
+    
+  }
+  
+  .sicon {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .ssicon {
+    width: 30px;
+    height: 30px;
+    margin-right: 4px;
+  }
+  
+  .step2_title::before{
+    content: "*";
+    display: inline-block;
+    margin-right: 4px;
+    font-family: SimSun;
+    line-height: 1;
+    font-size: 14px;
+    color: #f5222d;
+  }
