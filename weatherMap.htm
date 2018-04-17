@@ -1,0 +1,128 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>aqi</title>
+    <style type="text/css">
+        body{
+            margin:0;
+            height:100%;
+            width:100%;
+            position:absolute;
+            font-size:12px;
+        }
+        #mapContainer{
+            position: absolute;
+            top:0;
+            left: 0;
+            right:0;
+            bottom:0;
+        }
+        #pos{
+            background-color: #fff;
+            padding-left: 10px;
+            padding-right: 10px;
+            position:absolute;
+            font-size: 12px;
+            right: 10px;
+            bottom: 30px;
+            border-radius: 3px;
+            line-height: 30px;
+            border:1px solid #ccc;
+        }
+        #pos input{
+            border:1px solid #ddd;
+            border-radius:3px;
+            outline:none;
+        }
+        #pos label{
+            min-width: 250px;
+            display: inline-block;
+            text-align:left;
+        }
+        #result1{
+            max-height:300px;
+        }
+    </style>
+</head>
+<body>
+    <div id="mapContainer" ></div>
+    <div id="pos">
+        <div>
+            <label>城市：</label><input type="text" id="city" value=""/><br>
+            <label>污染指数：</label><input type="text" id="aqicn" value=""/><br>
+            <label>经度:</label><input type="text" id="lngX" name="lngX" value=""/><br>
+            <label>纬度:</label><input type="text" id="latY" name="latY" value=""/>
+        </div>
+    </div>
+ 
+    <script type="text/javascript" src="http://webapi.amap.com/maps?v=1.3&key=7147aba555d87c279ff7d6c1c9db5201"></script>
+    <script type="text/javascript" src="http://webapi.amap.com/maps?v=1.3&key=7147aba555d87c279ff7d6c1c9db5201&plugin=AMap.CitySearch"></script>
+    <script type="text/javascript">
+        var token = "f7ea107c74bc8acaa9e851bd30f1ceb5f13c76fb";
+        var mapObj = new AMap.Map("mapContainer", {
+            resizeEnable: true,
+            view: new AMap.View2D({
+                resizeEnable: true,
+                zoom:13
+            }),
+            keyboardEnable:false
+        });           
+        var clickEventListener=AMap.event.addListener(mapObj,'click',function(e){
+            //get x, y coordinate
+            var x = e.lnglat.getLng();
+            var y = e.lnglat.getLat();
+            document.getElementById("lngX").value = x;
+            document.getElementById("latY").value = y;
+			console.log(x);
+			console.log(y);
+            AMap.service('AMap.Geocoder',function(){
+                geocoder = new AMap.Geocoder({
+                    city: "010"
+                });
+                var lnglatXY=[x, y];
+				geocoder.getAddress(lnglatXY, function(status, result) {
+					console.log(status);
+					console.log(result.info );
+					if (status === 'complete' && result.info === 'OK') {
+					   //获得了有效的地址信息:
+					   //即，result.regeocode.formattedAddress
+					   
+					}else{
+					   //获取地址失败
+					}
+				});  
+            })
+        });
+       function ajax(url,type,param,async,header) {
+            return new Promise(function(resolve, reject) {
+                var req = new XMLHttpRequest();
+                req.onload = function() { 
+                    if(req.status == 200 || req.status == 304) {
+                        resolve(JSON.parse(req.response));
+                    } else {
+                        reject(Error(req.statusText));
+                    }
+                };
+                req.onerror = function() {
+                    reject(Error("Network Error"));
+                };
+                type == null || type.toUpperCase() == 'GET'?type='get':type='post';
+                param = formatParams(param);
+                param == null || param == ''?url:url=url+'?'+param;
+                async == null || async == true?async=true:async=false;
+                req.open(type,url,async);
+                req.send();
+            });
+            function formatParams(data) {
+                var _fpArr = [];
+                for (var _fpName in data) {
+              _fpArr.push(_fpName + "=" + data[_fpName]);
+                }
+                return _fpArr.join("&");
+            };
+        }
+    </script>
+</body>
+</html>
